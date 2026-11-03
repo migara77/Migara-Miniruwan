@@ -30,5 +30,5 @@ becoming a strong back-end developer.
 - I listen to code review feedback and fix it properly
 
 ## 📫 Contact
-- LinkedIn: [add your link]
-- Email: [add your email]
+- LinkedIn: www.linkedin.com/in/migara-miniruwan-1021b730a
+- Email: migaragm206@gmail.com
